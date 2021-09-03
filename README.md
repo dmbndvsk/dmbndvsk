@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Dmytro Bendovskyi
+- 👋 Hi, I’m Dmytro Bendovskyi.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Django.
 - 📫 How to reach me : dmytrobendovskyi1990@gmail.com
 
 <!---
