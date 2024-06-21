@@ -1,4 +1,4 @@
-## Welcome to Dmytro Bendovskyi's GitHub Profile
+## Welcome to Dmytro Bendovskyi GitHub Profile
 
 ### 👨‍💻 About Me
 As a dedicated Back-end Developer, I specialize in creating and maintaining robust web applications. My work focuses on seamless integration with various external services and APIs, ensuring reliability and efficiency in every project.
